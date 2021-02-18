@@ -62,6 +62,7 @@ const answers = `\n
   Cереднє значення цін, округлене до другого знаку після коми = ${averagePrice}
   Знижка = ${discount}
   Сума до оплати = ${amountForPayment}
-  Чистий прибуток = ${profit}`;
+  Чистий прибуток = ${profit}`
+;
 
 console.log(answers);
